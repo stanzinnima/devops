@@ -1,2 +1,3 @@
-print "VVCE"
+print ("vvce")
+print ("hello")
 
